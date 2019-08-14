@@ -89,7 +89,7 @@ export default {
   data () {
     return {
       msg: 'Welcome to Your First Docker App'
-    }0
+    }
   }
 }
 </script>
